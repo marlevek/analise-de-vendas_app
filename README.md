@@ -3,6 +3,11 @@
 ## Visão Geral do Projeto
 Este projeto envolve a criação de um dashboard interativo para análise de dados de vendas endas usando Streamlit e Plotly. O objetivo é fornecer visualizações dinâmicas e interativas que ajudem a entender o desempenho de vendas, marketing, controle de estoque e outros aspectos relacionados a vendas.
 
+## Acesse o Dashboard
+Você pode acessar o dashboard interativo através do seguinte link:
+
+[Dashboard de Vendas](https://dashboard-de-vendas.streamlit.app/)
+
 ## Objetivos
 - Realizar análises de rentabilidade e desempenho de vendas.
 - Visualizar o desempenho regional e o impacto dos gastos com marketing.
